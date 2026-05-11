@@ -160,7 +160,7 @@ In Airflow UI: **DAGs → lakehouse_pipeline → Trigger DAG**
 
 ## 📊 Dashboard Preview
 
-
+![NYC Taxi Lakehouse Dashboard](dashboard_preview.png)
 
 *Looker Studio dashboard connected to BigQuery gold tables — avg fare by hour, trip count by location, monthly stats table.*
 
